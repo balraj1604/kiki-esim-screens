@@ -60,18 +60,30 @@
 
   <section id="grid"></section>
   <p id="empty" hidden>No screen matches that. Try a number, a name, or an id like S003.</p>
+
+  <section id="files">
+    <div class="fhead">
+      <h2>Files &amp; folders <span class="fdim">— everything else, <span id="f-total">…</span> items</span></h2>
+      <p class="hint">
+        Click a folder to open it. Every file has a permanent <b>D number</b> — say
+        <b>“open D0412”</b> or <b>“drop 412”</b>. The app screens above use <b>S numbers</b>.
+      </p>
+      <div class="fbar">
+        <button id="f-up" title="Up one folder">↑ Up</button>
+        <input id="f-q" type="search" autocomplete="off" spellcheck="false"
+               placeholder="Search all 4,605:  412  ·  D0412  ·  wallpaper  ·  boarding  ·  tokyo">
+        <span class="fdim" id="f-count">loading…</span>
+      </div>
+      <div class="fcrumbs" id="f-crumbs"></div>
+    </div>
+
+    <div id="f-grid" class="fgrid"></div>
+    <p id="f-empty" class="fdim" hidden>Nothing matches that.</p>
+    <button id="f-more" class="fmore" hidden>Show more</button>
+  </section>
 </main>
 
-<p style="max-width:960px;margin:24px auto;padding:14px 16px;border:1px solid currentColor;border-radius:12px;opacity:.85;font-size:14px">
-  These are the 78 curated app screens. The other <strong>4,605 files</strong> —
-  Emirates illustrations, wallpapers, boarding-pass art, city assets, widgets,
-  animation sources, specs and transcripts — are all viewable here:
-  <a href="all.html"><strong>→ See all 4,605 files</strong></a>
-  · <a href="ALL-CONTENT.md">ALL-CONTENT.md</a>
-</p>
-
 <footer>
-  <a href="all.html">all 4,605 files</a> ·
   <a href="ALL-CONTENT.md">ALL-CONTENT.md</a> ·
   <a href="catalog/all.tsv">catalog/all.tsv</a> ·
   <a href="docs/SCREEN_INDEX.md">SCREEN_INDEX.md</a> ·
@@ -83,5 +95,6 @@
 </footer>
 
 <script src="app.js"></script>
+<script src="files.js"></script>
 </body>
 </html>
