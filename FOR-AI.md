@@ -39,6 +39,7 @@ vertical band measured on the original screenshot.
 
 ## Read these before advising on anything
 
+    API reference, ours + Zetexa's        : https://balraj1604.github.io/kiki-esim-screens/docs/API_REFERENCE.md
     Product + supplier + backend baseline : https://balraj1604.github.io/kiki-esim-screens/KIKI_ESIM_SHARED_HANDOVER.md
     What the supplier can actually do     : https://balraj1604.github.io/kiki-esim-screens/docs/ZETEXA_CAPABILITY_MATRIX.md
     Backend, intended vs real             : https://balraj1604.github.io/kiki-esim-screens/docs/BACKEND_JOURNEY.md
