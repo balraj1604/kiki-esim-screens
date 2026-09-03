@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kiki eSIM — screen review</title>
+<meta name="description" content="Numbered screen library for Kiki eSIM. Search S001, a screen name, a route, or an element id such as S003-B.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <h1>Kiki eSIM — screen review</h1>
+    <span class="build" id="build"></span>
+  </div>
+  <input id="q" type="search" autocomplete="off" spellcheck="false"
+         placeholder="Search:  3   ·   S003   ·   home   ·   /plans   ·   S003-B   ·   roster">
+  <div class="filters" id="filters"></div>
+  <p class="hint">
+    Every screen has a permanent id. Say <b>“open S012”</b>, <b>“look at S012-B”</b>,
+    or <b>“change Y 220 to Y 340”</b>. Coordinates are logical points (pt); native pixels are 3×.
+  </p>
+</header>
+
+<main>
+  <section id="viewer" hidden>
+    <div class="vhead">
+      <div>
+        <span class="sid" id="v-id"></span>
+        <span class="sname" id="v-name"></span>
+      </div>
+      <div class="vnav">
+        <button id="prev" title="Previous screen">‹ Prev</button>
+        <button id="next" title="Next screen">Next ›</button>
+        <button id="copy" title="Copy a direct link to this screen">Copy link</button>
+      </div>
+    </div>
+
+    <div class="meta" id="v-meta"></div>
+
+    <div class="pair">
+      <figure>
+        <figcaption>Original <a id="v-o-full" target="_blank" rel="noopener">full size ↗</a></figcaption>
+        <div class="shot" id="shotwrap">
+          <img id="v-orig" alt="">
+          <div class="cross" id="crossx"></div><div class="cross h" id="crossy"></div>
+          <div class="readout" id="readout">—</div>
+        </div>
+      </figure>
+      <figure>
+        <figcaption>Annotated <a id="v-a-full" target="_blank" rel="noopener">full size ↗</a></figcaption>
+        <img id="v-anno" class="anno" alt="">
+      </figure>
+    </div>
+
+    <div class="regions" id="v-regions"></div>
+  </section>
+
+  <section id="grid"></section>
+  <p id="empty" hidden>No screen matches that. Try a number, a name, or an id like S003.</p>
+</main>
+
+<footer>
+  <a href="docs/SCREEN_INDEX.md">SCREEN_INDEX.md</a> ·
+  <a href="KIKI_ESIM_SHARED_HANDOVER.md">SHARED_HANDOVER.md</a> ·
+  <a href="docs/BACKEND_JOURNEY.md">BACKEND_JOURNEY.md</a> ·
+  <a href="docs/ZETEXA_CAPABILITY_MATRIX.md">ZETEXA_CAPABILITY_MATRIX.md</a> ·
+  <a href="docs/OPEN_QUESTIONS.md">OPEN_QUESTIONS.md</a> ·
+  <a href="data/screens.json">screens.json</a>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

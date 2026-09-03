@@ -1,0 +1,3755 @@
+{
+  "app": "Kiki eSIM",
+  "build": "1.0.24 (27)",
+  "device": "iPhone 17 Pro",
+  "os": "iOS 26.5",
+  "scale": 3,
+  "coordinate_system": "logical points (pt); multiply by 3 for native pixels",
+  "count": 78,
+  "screens": [
+    {
+      "id": "S001",
+      "number": 1,
+      "name": "Home",
+      "slug": "home",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/home",
+      "source_file": "01-core/01-home.png",
+      "original": "screens/original/S001-home.png",
+      "annotated": "screens/annotated/S001-home-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S001-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S001-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S001-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S001-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S002",
+      "number": 2,
+      "name": "Plans",
+      "slug": "plans",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/plans",
+      "source_file": "01-core/02-plans.png",
+      "original": "screens/original/S002-plans.png",
+      "annotated": "screens/annotated/S002-plans-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S002-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S002-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S002-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S002-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S003",
+      "number": 3,
+      "name": "My eSIM",
+      "slug": "my-esim",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "01-core/03-my-esim.png",
+      "original": "screens/original/S003-my-esim.png",
+      "annotated": "screens/annotated/S003-my-esim-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S003-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S003-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S003-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S003-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S004",
+      "number": 4,
+      "name": "Profile",
+      "slug": "profile",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/profile",
+      "source_file": "01-core/04-profile.png",
+      "original": "screens/original/S004-profile.png",
+      "annotated": "screens/annotated/S004-profile-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S004-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S004-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S004-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S004-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S005",
+      "number": 5,
+      "name": "Welcome",
+      "slug": "welcome",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/welcome",
+      "source_file": "01-core/05-welcome.png",
+      "original": "screens/original/S005-welcome.png",
+      "annotated": "screens/annotated/S005-welcome-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S005-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S005-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S005-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S005-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S006",
+      "number": 6,
+      "name": "Crew Verification",
+      "slug": "crew-verification",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "01-core/06-crew-verification.png",
+      "original": "screens/original/S006-crew-verification.png",
+      "annotated": "screens/annotated/S006-crew-verification-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S006-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S006-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S006-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S006-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S007",
+      "number": 7,
+      "name": "Onboarding",
+      "slug": "onboarding",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/onboarding",
+      "source_file": "01-core/07-onboarding.png",
+      "original": "screens/original/S007-onboarding.png",
+      "annotated": "screens/annotated/S007-onboarding-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S007-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S007-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S007-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S007-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S008",
+      "number": 8,
+      "name": "Account",
+      "slug": "account",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/account",
+      "source_file": "01-core/08-account.png",
+      "original": "screens/original/S008-account.png",
+      "annotated": "screens/annotated/S008-account-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S008-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S008-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S008-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S008-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S009",
+      "number": 9,
+      "name": "Settings",
+      "slug": "settings",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/settings",
+      "source_file": "01-core/09-settings.png",
+      "original": "screens/original/S009-settings.png",
+      "annotated": "screens/annotated/S009-settings-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S009-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S009-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S009-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S009-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S010",
+      "number": 10,
+      "name": "Home Story Pay As You Go",
+      "slug": "home-story-pay-as-you-go",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "01-core/10-home-story-pay-as-you-go.png",
+      "original": "screens/original/S010-home-story-pay-as-you-go.png",
+      "annotated": "screens/annotated/S010-home-story-pay-as-you-go-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S010-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S010-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S010-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S010-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S011",
+      "number": 11,
+      "name": "Home Story Crew Plan",
+      "slug": "home-story-crew-plan",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "01-core/11-home-story-crew-plan.png",
+      "original": "screens/original/S011-home-story-crew-plan.png",
+      "annotated": "screens/annotated/S011-home-story-crew-plan-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S011-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S011-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S011-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S011-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S012",
+      "number": 12,
+      "name": "Home Story Verify Crew",
+      "slug": "home-story-verify-crew",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Tier 1 \u2192 2 transition",
+      "state": "Default",
+      "route": null,
+      "source_file": "01-core/12-home-story-verify-crew.png",
+      "original": "screens/original/S012-home-story-verify-crew.png",
+      "annotated": "screens/annotated/S012-home-story-verify-crew-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S012-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S012-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S012-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S012-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S013",
+      "number": 13,
+      "name": "Home Story Vacation",
+      "slug": "home-story-vacation",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "01-core/13-home-story-vacation.png",
+      "original": "screens/original/S013-home-story-vacation.png",
+      "annotated": "screens/annotated/S013-home-story-vacation-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S013-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S013-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S013-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S013-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S014",
+      "number": 14,
+      "name": "Home Scrolled Destinations",
+      "slug": "home-scrolled-destinations",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Scrolled",
+      "route": null,
+      "source_file": "01-core/14-home-scrolled-destinations.png",
+      "original": "screens/original/S014-home-scrolled-destinations.png",
+      "annotated": "screens/annotated/S014-home-scrolled-destinations-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S014-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S014-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S014-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S014-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S015",
+      "number": 15,
+      "name": "Home Scrolled Browse By Type",
+      "slug": "home-scrolled-browse-by-type",
+      "category": "01-core",
+      "category_name": "Core",
+      "tier": "Any tier",
+      "state": "Scrolled",
+      "route": null,
+      "source_file": "01-core/15-home-scrolled-browse-by-type.png",
+      "original": "screens/original/S015-home-scrolled-browse-by-type.png",
+      "annotated": "screens/annotated/S015-home-scrolled-browse-by-type-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S015-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S015-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S015-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S015-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S016",
+      "number": 16,
+      "name": "Landing Empty",
+      "slug": "landing-empty",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Empty state",
+      "route": null,
+      "source_file": "02-plans/01-landing-empty.png",
+      "original": "screens/original/S016-landing-empty.png",
+      "annotated": "screens/annotated/S016-landing-empty-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S016-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S016-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S016-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S016-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S017",
+      "number": 17,
+      "name": "Search France Results",
+      "slug": "search-france-results",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "02-plans/02-search-france-results.png",
+      "original": "screens/original/S017-search-france-results.png",
+      "annotated": "screens/annotated/S017-search-france-results-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S017-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S017-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S017-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S017-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S018",
+      "number": 18,
+      "name": "France All Plans",
+      "slug": "france-all-plans",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "02-plans/03-france-all-plans.png",
+      "original": "screens/original/S018-france-all-plans.png",
+      "annotated": "screens/annotated/S018-france-all-plans-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S018-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S018-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S018-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S018-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S019",
+      "number": 19,
+      "name": "France Filtered 3gb 3days",
+      "slug": "france-filtered-3gb-3days",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Filtered",
+      "route": null,
+      "source_file": "02-plans/04-france-filtered-3gb-3days.png",
+      "original": "screens/original/S019-france-filtered-3gb-3days.png",
+      "annotated": "screens/annotated/S019-france-filtered-3gb-3days-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S019-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S019-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S019-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S019-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S020",
+      "number": 20,
+      "name": "United States Standard",
+      "slug": "united-states-standard",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "02-plans/05-united-states-standard.png",
+      "original": "screens/original/S020-united-states-standard.png",
+      "annotated": "screens/annotated/S020-united-states-standard-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S020-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S020-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S020-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S020-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S021",
+      "number": 21,
+      "name": "United States Unlimited",
+      "slug": "united-states-unlimited",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "02-plans/06-united-states-unlimited.png",
+      "original": "screens/original/S021-united-states-unlimited.png",
+      "annotated": "screens/annotated/S021-united-states-unlimited-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S021-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S021-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S021-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S021-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S022",
+      "number": 22,
+      "name": "Unlimited Filtered 10days",
+      "slug": "unlimited-filtered-10days",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "Filtered",
+      "route": null,
+      "source_file": "02-plans/07-unlimited-filtered-10days.png",
+      "original": "screens/original/S022-unlimited-filtered-10days.png",
+      "annotated": "screens/annotated/S022-unlimited-filtered-10days-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S022-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S022-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S022-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S022-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S023",
+      "number": 23,
+      "name": "No Results",
+      "slug": "no-results",
+      "category": "02-plans",
+      "category_name": "Plans",
+      "tier": "Any tier",
+      "state": "No results",
+      "route": null,
+      "source_file": "02-plans/08-no-results.png",
+      "original": "screens/original/S023-no-results.png",
+      "annotated": "screens/annotated/S023-no-results-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S023-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S023-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S023-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S023-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S024",
+      "number": 24,
+      "name": "Tier 1 Traveller",
+      "slug": "tier-1-traveller",
+      "category": "03-my-esim",
+      "category_name": "My eSIM",
+      "tier": "Tier 1 \u2014 standard user",
+      "state": "Default",
+      "route": null,
+      "source_file": "03-my-esim/01-tier-1-traveller.png",
+      "original": "screens/original/S024-tier-1-traveller.png",
+      "annotated": "screens/annotated/S024-tier-1-traveller-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S024-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S024-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S024-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S024-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S025",
+      "number": 25,
+      "name": "Tier 2 Verified Crew",
+      "slug": "tier-2-verified-crew",
+      "category": "03-my-esim",
+      "category_name": "My eSIM",
+      "tier": "Tier 2 \u2014 verified crew",
+      "state": "Default",
+      "route": null,
+      "source_file": "03-my-esim/02-tier-2-verified-crew.png",
+      "original": "screens/original/S025-tier-2-verified-crew.png",
+      "annotated": "screens/annotated/S025-tier-2-verified-crew-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S025-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S025-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S025-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S025-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S026",
+      "number": 26,
+      "name": "Tier 3 Crew Bundle",
+      "slug": "tier-3-crew-bundle",
+      "category": "03-my-esim",
+      "category_name": "My eSIM",
+      "tier": "Tier 3 \u2014 crew with roster",
+      "state": "Default",
+      "route": null,
+      "source_file": "03-my-esim/03-tier-3-crew-bundle.png",
+      "original": "screens/original/S026-tier-3-crew-bundle.png",
+      "annotated": "screens/annotated/S026-tier-3-crew-bundle-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S026-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S026-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S026-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S026-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S027",
+      "number": 27,
+      "name": "Tier 1 Cycle Complete",
+      "slug": "tier-1-cycle-complete",
+      "category": "03-my-esim",
+      "category_name": "My eSIM",
+      "tier": "Tier 1 \u2014 standard user",
+      "state": "Complete",
+      "route": null,
+      "source_file": "03-my-esim/04-tier-1-cycle-complete.png",
+      "original": "screens/original/S027-tier-1-cycle-complete.png",
+      "annotated": "screens/annotated/S027-tier-1-cycle-complete-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S027-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S027-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S027-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S027-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S028",
+      "number": 28,
+      "name": "Upload",
+      "slug": "upload",
+      "category": "04-roster",
+      "category_name": "Roster",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "04-roster/01-upload.png",
+      "original": "screens/original/S028-upload.png",
+      "annotated": "screens/annotated/S028-upload-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S028-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S028-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S028-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S028-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S029",
+      "number": 29,
+      "name": "Manual Entry",
+      "slug": "manual-entry",
+      "category": "04-roster",
+      "category_name": "Roster",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "04-roster/02-manual-entry.png",
+      "original": "screens/original/S029-manual-entry.png",
+      "annotated": "screens/annotated/S029-manual-entry-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S029-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S029-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S029-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S029-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S030",
+      "number": 30,
+      "name": "Confirm No Draft",
+      "slug": "confirm-no-draft",
+      "category": "04-roster",
+      "category_name": "Roster",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "04-roster/03-confirm-no-draft.png",
+      "original": "screens/original/S030-confirm-no-draft.png",
+      "annotated": "screens/annotated/S030-confirm-no-draft-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S030-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S030-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S030-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S030-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S031",
+      "number": 31,
+      "name": "Trips",
+      "slug": "trips",
+      "category": "04-roster",
+      "category_name": "Roster",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "04-roster/04-trips.png",
+      "original": "screens/original/S031-trips.png",
+      "annotated": "screens/annotated/S031-trips-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S031-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S031-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S031-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S031-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S032",
+      "number": 32,
+      "name": "Schedule",
+      "slug": "schedule",
+      "category": "04-roster",
+      "category_name": "Roster",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/schedule",
+      "source_file": "04-roster/05-schedule.png",
+      "original": "screens/original/S032-schedule.png",
+      "annotated": "screens/annotated/S032-schedule-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S032-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S032-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S032-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S032-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S033",
+      "number": 33,
+      "name": "Invite Crew",
+      "slug": "invite-crew",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "05-profile/01-invite-crew.png",
+      "original": "screens/original/S033-invite-crew.png",
+      "annotated": "screens/annotated/S033-invite-crew-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S033-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S033-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S033-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S033-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S034",
+      "number": 34,
+      "name": "Days Abroad",
+      "slug": "days-abroad",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/days-abroad",
+      "source_file": "05-profile/02-days-abroad.png",
+      "original": "screens/original/S034-days-abroad.png",
+      "annotated": "screens/annotated/S034-days-abroad-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S034-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S034-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S034-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S034-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S035",
+      "number": 35,
+      "name": "Layover Planner",
+      "slug": "layover-planner",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/layover-planner",
+      "source_file": "05-profile/03-layover-planner.png",
+      "original": "screens/original/S035-layover-planner.png",
+      "annotated": "screens/annotated/S035-layover-planner-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S035-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S035-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S035-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S035-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S036",
+      "number": 36,
+      "name": "Layover Intel",
+      "slug": "layover-intel",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/layover-intel",
+      "source_file": "05-profile/04-layover-intel.png",
+      "original": "screens/original/S036-layover-intel.png",
+      "annotated": "screens/annotated/S036-layover-intel-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S036-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S036-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S036-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S036-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S037",
+      "number": 37,
+      "name": "Rewards Wallet",
+      "slug": "rewards-wallet",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "05-profile/05-rewards-wallet.png",
+      "original": "screens/original/S037-rewards-wallet.png",
+      "annotated": "screens/annotated/S037-rewards-wallet-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S037-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S037-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S037-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S037-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S038",
+      "number": 38,
+      "name": "Widgets",
+      "slug": "widgets",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/widgets",
+      "source_file": "05-profile/06-widgets.png",
+      "original": "screens/original/S038-widgets.png",
+      "annotated": "screens/annotated/S038-widgets-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S038-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S038-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S038-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S038-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S039",
+      "number": 39,
+      "name": "Support",
+      "slug": "support",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/support",
+      "source_file": "05-profile/07-support.png",
+      "original": "screens/original/S039-support.png",
+      "annotated": "screens/annotated/S039-support-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S039-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S039-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S039-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S039-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S040",
+      "number": 40,
+      "name": "Savings",
+      "slug": "savings",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/savings",
+      "source_file": "05-profile/08-savings.png",
+      "original": "screens/original/S040-savings.png",
+      "annotated": "screens/annotated/S040-savings-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S040-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S040-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S040-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S040-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S041",
+      "number": 41,
+      "name": "Gift Data",
+      "slug": "gift-data",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "05-profile/09-gift-data.png",
+      "original": "screens/original/S041-gift-data.png",
+      "annotated": "screens/annotated/S041-gift-data-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S041-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S041-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S041-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S041-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S042",
+      "number": 42,
+      "name": "Data Wallet",
+      "slug": "data-wallet",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "05-profile/10-data-wallet.png",
+      "original": "screens/original/S042-data-wallet.png",
+      "annotated": "screens/annotated/S042-data-wallet-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S042-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S042-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S042-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S042-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S043",
+      "number": 43,
+      "name": "Crew Mode Legacy",
+      "slug": "crew-mode-legacy",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Legacy screen",
+      "route": null,
+      "source_file": "05-profile/11-crew-mode-legacy.png",
+      "original": "screens/original/S043-crew-mode-legacy.png",
+      "annotated": "screens/annotated/S043-crew-mode-legacy-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S043-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S043-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S043-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S043-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S044",
+      "number": 44,
+      "name": "Crew Recommendations",
+      "slug": "crew-recommendations",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "05-profile/12-crew-recommendations.png",
+      "original": "screens/original/S044-crew-recommendations.png",
+      "annotated": "screens/annotated/S044-crew-recommendations-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S044-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S044-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S044-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S044-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S045",
+      "number": 45,
+      "name": "Hotels",
+      "slug": "hotels",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/hotels",
+      "source_file": "05-profile/13-hotels.png",
+      "original": "screens/original/S045-hotels.png",
+      "annotated": "screens/annotated/S045-hotels-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S045-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S045-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S045-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S045-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S046",
+      "number": 46,
+      "name": "Hotel Detail",
+      "slug": "hotel-detail",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/hotel-detail",
+      "source_file": "05-profile/14-hotel-detail.png",
+      "original": "screens/original/S046-hotel-detail.png",
+      "annotated": "screens/annotated/S046-hotel-detail-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S046-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S046-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S046-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S046-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S047",
+      "number": 47,
+      "name": "Rewards Card Expanded",
+      "slug": "rewards-card-expanded",
+      "category": "05-profile",
+      "category_name": "Profile",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "05-profile/15-rewards-card-expanded.png",
+      "original": "screens/original/S047-rewards-card-expanded.png",
+      "annotated": "screens/annotated/S047-rewards-card-expanded-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S047-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S047-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S047-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S047-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S048",
+      "number": 48,
+      "name": "Destination France",
+      "slug": "destination-france",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "06-purchase/01-destination-france.png",
+      "original": "screens/original/S048-destination-france.png",
+      "annotated": "screens/annotated/S048-destination-france-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S048-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S048-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S048-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S048-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S049",
+      "number": 49,
+      "name": "Plan Detail France",
+      "slug": "plan-detail-france",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "06-purchase/02-plan-detail-france.png",
+      "original": "screens/original/S049-plan-detail-france.png",
+      "annotated": "screens/annotated/S049-plan-detail-france-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S049-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S049-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S049-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S049-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S050",
+      "number": 50,
+      "name": "Checkout France",
+      "slug": "checkout-france",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "06-purchase/03-checkout-france.png",
+      "original": "screens/original/S050-checkout-france.png",
+      "annotated": "screens/annotated/S050-checkout-france-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S050-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S050-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S050-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S050-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S051",
+      "number": 51,
+      "name": "Purchase Success",
+      "slug": "purchase-success",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "06-purchase/04-purchase-success.png",
+      "original": "screens/original/S051-purchase-success.png",
+      "annotated": "screens/annotated/S051-purchase-success-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S051-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S051-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S051-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S051-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S052",
+      "number": 52,
+      "name": "eSIM Install",
+      "slug": "esim-install",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/esim-install",
+      "source_file": "06-purchase/05-esim-install.png",
+      "original": "screens/original/S052-esim-install.png",
+      "annotated": "screens/annotated/S052-esim-install-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S052-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S052-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S052-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S052-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S053",
+      "number": 53,
+      "name": "eSIM Detail",
+      "slug": "esim-detail",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/esim-detail",
+      "source_file": "06-purchase/06-esim-detail.png",
+      "original": "screens/original/S053-esim-detail.png",
+      "annotated": "screens/annotated/S053-esim-detail-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S053-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S053-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S053-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S053-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S054",
+      "number": 54,
+      "name": "Top Up",
+      "slug": "top-up",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/top-up",
+      "source_file": "06-purchase/07-top-up.png",
+      "original": "screens/original/S054-top-up.png",
+      "annotated": "screens/annotated/S054-top-up-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S054-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S054-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S054-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S054-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S055",
+      "number": 55,
+      "name": "Bundle Tiers",
+      "slug": "bundle-tiers",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/bundle-tiers",
+      "source_file": "06-purchase/08-bundle-tiers.png",
+      "original": "screens/original/S055-bundle-tiers.png",
+      "annotated": "screens/annotated/S055-bundle-tiers-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S055-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S055-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S055-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S055-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S056",
+      "number": 56,
+      "name": "Smart Plan",
+      "slug": "smart-plan",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/smart-plan",
+      "source_file": "06-purchase/09-smart-plan.png",
+      "original": "screens/original/S056-smart-plan.png",
+      "annotated": "screens/annotated/S056-smart-plan-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S056-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S056-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S056-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S056-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S057",
+      "number": 57,
+      "name": "How It Works",
+      "slug": "how-it-works",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/how-it-works",
+      "source_file": "06-purchase/10-how-it-works.png",
+      "original": "screens/original/S057-how-it-works.png",
+      "annotated": "screens/annotated/S057-how-it-works-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S057-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S057-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S057-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S057-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S058",
+      "number": 58,
+      "name": "Checkout Card Selected",
+      "slug": "checkout-card-selected",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "06-purchase/11-checkout-card-selected.png",
+      "original": "screens/original/S058-checkout-card-selected.png",
+      "annotated": "screens/annotated/S058-checkout-card-selected-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S058-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S058-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S058-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S058-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S059",
+      "number": 59,
+      "name": "Checkout Apple Pay Selected",
+      "slug": "checkout-apple-pay-selected",
+      "category": "06-purchase",
+      "category_name": "Purchase",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "06-purchase/12-checkout-apple-pay-selected.png",
+      "original": "screens/original/S059-checkout-apple-pay-selected.png",
+      "annotated": "screens/annotated/S059-checkout-apple-pay-selected-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S059-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S059-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S059-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S059-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S060",
+      "number": 60,
+      "name": "Flight Detail",
+      "slug": "flight-detail",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/flight-detail",
+      "source_file": "07-other/01-flight-detail.png",
+      "original": "screens/original/S060-flight-detail.png",
+      "annotated": "screens/annotated/S060-flight-detail-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S060-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S060-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S060-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S060-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S061",
+      "number": 61,
+      "name": "Live Flight",
+      "slug": "live-flight",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/live-flight",
+      "source_file": "07-other/02-live-flight.png",
+      "original": "screens/original/S061-live-flight.png",
+      "annotated": "screens/annotated/S061-live-flight-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S061-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S061-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S061-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S061-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S062",
+      "number": 62,
+      "name": "Experience",
+      "slug": "experience",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/experience",
+      "source_file": "07-other/03-experience.png",
+      "original": "screens/original/S062-experience.png",
+      "annotated": "screens/annotated/S062-experience-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S062-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S062-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S062-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S062-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S063",
+      "number": 63,
+      "name": "Akito Legacy",
+      "slug": "akito-legacy",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Legacy screen",
+      "route": null,
+      "source_file": "07-other/04-akito-legacy.png",
+      "original": "screens/original/S063-akito-legacy.png",
+      "annotated": "screens/annotated/S063-akito-legacy-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S063-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S063-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S063-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S063-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S064",
+      "number": 64,
+      "name": "V2 Workspace",
+      "slug": "v2-workspace",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": null,
+      "source_file": "07-other/05-v2-workspace.png",
+      "original": "screens/original/S064-v2-workspace.png",
+      "annotated": "screens/annotated/S064-v2-workspace-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S064-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S064-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S064-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S064-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S065",
+      "number": 65,
+      "name": "Folder Demo",
+      "slug": "folder-demo",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/folder-demo",
+      "source_file": "07-other/06-folder-demo.png",
+      "original": "screens/original/S065-folder-demo.png",
+      "annotated": "screens/annotated/S065-folder-demo-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S065-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S065-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S065-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S065-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S066",
+      "number": 66,
+      "name": "Folder Motion",
+      "slug": "folder-motion",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/folder-motion",
+      "source_file": "07-other/07-folder-motion.png",
+      "original": "screens/original/S066-folder-motion.png",
+      "annotated": "screens/annotated/S066-folder-motion-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S066-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S066-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S066-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S066-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S067",
+      "number": 67,
+      "name": "Dev Stickers",
+      "slug": "dev-stickers",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/dev-stickers",
+      "source_file": "07-other/08-dev-stickers.png",
+      "original": "screens/original/S067-dev-stickers.png",
+      "annotated": "screens/annotated/S067-dev-stickers-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S067-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S067-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S067-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S067-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S068",
+      "number": 68,
+      "name": "Flight Log Proof",
+      "slug": "flight-log-proof",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/flight-log-proof",
+      "source_file": "07-other/09-flight-log-proof.png",
+      "original": "screens/original/S068-flight-log-proof.png",
+      "annotated": "screens/annotated/S068-flight-log-proof-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S068-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S068-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S068-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S068-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S069",
+      "number": 69,
+      "name": "Codex Onboarding",
+      "slug": "codex-onboarding",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Default",
+      "route": "/codex-onboarding",
+      "source_file": "07-other/10-codex-onboarding.png",
+      "original": "screens/original/S069-codex-onboarding.png",
+      "annotated": "screens/annotated/S069-codex-onboarding-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S069-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S069-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S069-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S069-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S070",
+      "number": 70,
+      "name": "Flight Journey Animation",
+      "slug": "flight-journey-animation",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Animation frame",
+      "route": null,
+      "source_file": "07-other/11-flight-journey-animation.png",
+      "original": "screens/original/S070-flight-journey-animation.png",
+      "annotated": "screens/annotated/S070-flight-journey-animation-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S070-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S070-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S070-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S070-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S071",
+      "number": 71,
+      "name": "Flight Journey Paused",
+      "slug": "flight-journey-paused",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Paused",
+      "route": null,
+      "source_file": "07-other/12-flight-journey-paused.png",
+      "original": "screens/original/S071-flight-journey-paused.png",
+      "annotated": "screens/annotated/S071-flight-journey-paused-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S071-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S071-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S071-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S071-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S072",
+      "number": 72,
+      "name": "Flight Journey Complete",
+      "slug": "flight-journey-complete",
+      "category": "07-other",
+      "category_name": "Other",
+      "tier": "Any tier",
+      "state": "Complete",
+      "route": null,
+      "source_file": "07-other/13-flight-journey-complete.png",
+      "original": "screens/original/S072-flight-journey-complete.png",
+      "annotated": "screens/annotated/S072-flight-journey-complete-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S072-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S072-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S072-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S072-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S073",
+      "number": 73,
+      "name": "Greeting Language Sheet",
+      "slug": "greeting-language-sheet",
+      "category": "08-popups",
+      "category_name": "Popups & sheets",
+      "tier": "Any tier",
+      "state": "Bottom sheet",
+      "route": null,
+      "source_file": "08-popups/01-greeting-language-sheet.png",
+      "original": "screens/original/S073-greeting-language-sheet.png",
+      "annotated": "screens/annotated/S073-greeting-language-sheet-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S073-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S073-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S073-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S073-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S074",
+      "number": 74,
+      "name": "Location Permission Prompt",
+      "slug": "location-permission-prompt",
+      "category": "08-popups",
+      "category_name": "Popups & sheets",
+      "tier": "Any tier",
+      "state": "System prompt",
+      "route": null,
+      "source_file": "08-popups/02-location-permission-prompt.png",
+      "original": "screens/original/S074-location-permission-prompt.png",
+      "annotated": "screens/annotated/S074-location-permission-prompt-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S074-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S074-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S074-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S074-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S075",
+      "number": 75,
+      "name": "Verify Crew Email Sheet",
+      "slug": "verify-crew-email-sheet",
+      "category": "08-popups",
+      "category_name": "Popups & sheets",
+      "tier": "Tier 1 \u2192 2 transition",
+      "state": "Bottom sheet",
+      "route": null,
+      "source_file": "08-popups/03-verify-crew-email-sheet.png",
+      "original": "screens/original/S075-verify-crew-email-sheet.png",
+      "annotated": "screens/annotated/S075-verify-crew-email-sheet-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S075-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S075-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S075-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S075-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S076",
+      "number": 76,
+      "name": "Verify Crew Email Filled",
+      "slug": "verify-crew-email-filled",
+      "category": "08-popups",
+      "category_name": "Popups & sheets",
+      "tier": "Tier 1 \u2192 2 transition",
+      "state": "Filled state",
+      "route": null,
+      "source_file": "08-popups/04-verify-crew-email-filled.png",
+      "original": "screens/original/S076-verify-crew-email-filled.png",
+      "annotated": "screens/annotated/S076-verify-crew-email-filled-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S076-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S076-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S076-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S076-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S077",
+      "number": 77,
+      "name": "Delete Account Confirmation",
+      "slug": "delete-account-confirmation",
+      "category": "08-popups",
+      "category_name": "Popups & sheets",
+      "tier": "Any tier",
+      "state": "Confirmation",
+      "route": null,
+      "source_file": "08-popups/05-delete-account-confirmation.png",
+      "original": "screens/original/S077-delete-account-confirmation.png",
+      "annotated": "screens/annotated/S077-delete-account-confirmation-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S077-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S077-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S077-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S077-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    },
+    {
+      "id": "S078",
+      "number": 78,
+      "name": "Manual Roster Date Sheet",
+      "slug": "manual-roster-date-sheet",
+      "category": "08-popups",
+      "category_name": "Popups & sheets",
+      "tier": "Any tier",
+      "state": "Bottom sheet",
+      "route": null,
+      "source_file": "08-popups/06-manual-roster-date-sheet.png",
+      "original": "screens/original/S078-manual-roster-date-sheet.png",
+      "annotated": "screens/annotated/S078-manual-roster-date-sheet-annotated.png",
+      "points": {
+        "w": 402,
+        "h": 874
+      },
+      "pixels": {
+        "w": 1206,
+        "h": 2622
+      },
+      "regions": [
+        {
+          "id": "S078-A",
+          "label": "Top region / header",
+          "y_from": 0,
+          "y_to": 122
+        },
+        {
+          "id": "S078-B",
+          "label": "Upper content",
+          "y_from": 122,
+          "y_to": 454
+        },
+        {
+          "id": "S078-C",
+          "label": "Lower content",
+          "y_from": 454,
+          "y_to": 777
+        },
+        {
+          "id": "S078-D",
+          "label": "Bottom region / navigation",
+          "y_from": 777,
+          "y_to": 874
+        }
+      ]
+    }
+  ]
+}
