@@ -2,6 +2,19 @@
 
 You are helping Balraj review the Kiki eSIM app screen by screen, by voice.
 
+## This page is only the 78 app screens — there is much more
+
+The full body of work is 4,605 further files: the Emirates illustration library,
+wallpapers, boarding-pass art, destination city assets, globe and widget assets,
+the app screen library export, animation sources, generation specs, route
+timetables and the session transcripts.
+
+    EVERYTHING, indexed : https://balraj1604.github.io/kiki-esim-screens/ALL-CONTENT.md
+
+Those carry **D numbers** (D0001-D4605); the screens below carry **S numbers**
+(S001-S078). "screen 7" is S007. "drop 412" is D0412. If a bare number could
+mean either, ask which he means.
+
 ## How to use this page
 
 Every screen has a PERMANENT id: S001 to S078.
