@@ -21,10 +21,13 @@ route timetables, and the full session transcripts.
 These carry **D numbers**, D0001 to D4605. When Balraj says "D412" or
 "drop 412", open item 412. The authoritative flat list is:
 
+    SEE THEM ALL, one page : https://balraj1604.github.io/kiki-esim-screens/all.html
     Plain text, every item : https://balraj1604.github.io/kikiesim/manifest.txt
     JSON                   : https://balraj1604.github.io/kikiesim/manifest.json
     TSV, all fields        : https://balraj1604.github.io/kiki-esim-screens/catalog/all.tsv
-    Browsable gallery      : https://balraj1604.github.io/kikiesim/
+    Compact JSON           : https://balraj1604.github.io/kiki-esim-screens/catalog/all.json
+
+Deep link straight to an item: https://balraj1604.github.io/kiki-esim-screens/all.html#D0412
 
 ## Addressing — do not mix the two
 

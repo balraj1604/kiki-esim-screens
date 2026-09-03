@@ -9,7 +9,9 @@ wallpapers, boarding-pass art, destination city assets, globe and widget assets,
 the app screen library export, animation sources, generation specs, route
 timetables and the session transcripts.
 
+    SEE THEM ALL        : https://balraj1604.github.io/kiki-esim-screens/all.html
     EVERYTHING, indexed : https://balraj1604.github.io/kiki-esim-screens/ALL-CONTENT.md
+    One item directly   : https://balraj1604.github.io/kiki-esim-screens/all.html#D0412
 
 Those carry **D numbers** (D0001-D4605); the screens below carry **S numbers**
 (S001-S078). "screen 7" is S007. "drop 412" is D0412. If a bare number could
