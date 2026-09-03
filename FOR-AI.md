@@ -1,3 +1,20 @@
+# ⚡ 2026-09-04 UPDATE — read this first
+
+A NEW full-page capture set of the CURRENT build (post Batch 1+2) exists:
+
+    Gallery : https://balraj1604.github.io/kiki-esim-screens/current.html
+    Index   : https://balraj1604.github.io/kiki-esim-screens/CURRENT-CAPTURES.md
+
+These are **C-numbers** (C001–C037), captured full-scroll — the ENTIRE screen is
+visible, tier variants included. The S-numbers below are the ORIGINAL review-era
+captures and remain valid as historical references, BUT:
+- REMOVED from the app (2026-09-03 Batch 1): S040, S041, S042, S043 (Crew Mode
+  Legacy), S045, S046, S055 (bundle tiers), S062–S068.
+- ARCHIVED (code kept, unreachable): S048. PARKED: S069.
+- Many surviving screens changed in Batch 1+2 — trust a C-capture over an
+  S-capture wherever they disagree.
+If a bare number could mean S or C, ask which.
+
 # Kiki eSIM — context for an AI assistant
 
 You are helping Balraj review the Kiki eSIM app screen by screen, by voice.
